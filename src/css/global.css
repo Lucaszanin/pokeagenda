@@ -1,0 +1,32 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+main {
+    margin-top: 0;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pokedex {
+    background-color: #fff;
+    display: flex;
+    gap: 30px;
+    padding: 25px 0;
+}
+
+.cabecalho {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.cabecalho img {
+    width: 200px;
+}
+
+.cabecalho img:hover {
+    transform: scale(1.15);
+}

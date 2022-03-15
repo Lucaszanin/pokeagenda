@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    /* Significa que todo o padding e toda a margin vão ficar contidos na largura e altura do elemento */
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
