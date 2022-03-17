@@ -4,7 +4,7 @@ body{
 
 main {
     margin-top: 0;
-    min-height: 100vh;
+    min-height: 80vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -20,11 +20,12 @@ main {
 .cabecalho {
     display: flex;
     justify-content: center;
-    margin-top: 10px;
+    margin-top: 8px;
 }
 
 .cabecalho img {
-    width: 200px;
+    width: 100px;
+    height:40px;
 }
 
 .cabecalho img:hover {
